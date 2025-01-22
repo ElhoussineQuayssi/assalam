@@ -1,0 +1,32 @@
+{
+  "home": {
+    "title": "Bienvenue à la Fondation Assalam",
+    "description": "Nous œuvrons pour un avenir meilleur",
+    "hero": {
+      "title": "Bienvenue à la Fondation Assalam",
+      "description": "Nous œuvrons pour un avenir meilleur en soutenant les communautés défavorisées, en promouvant l'éducation et en favorisant le développement durable.",
+      "button": "Découvrir nos projets"
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "Nous Sommes",
+    "projects": "Projets",
+    "news": "Actualités",
+    "contact": "Contact"
+  },
+  "news": {
+    "title": "Actualités de la fondation",
+    "description": "Découvrez les dernières actualités de notre fondation"
+  },
+  "sections": {
+    "vision": {
+      "title": "Notre Vision",
+      "description": "Une vision claire pour un avenir meilleur"
+    },
+    "about": {
+      "title": "À Propos",
+      "description": "Découvrez notre histoire"
+    }
+  }
+} 

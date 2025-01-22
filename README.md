@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -32,3 +33,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Deploy on Vercel
 
 the link to the website : https://assalam-app-umhp.vercel.app/?vercelToolbarCode=p_mXqMTe-Q0LYHg
+=======
+# assalam
+>>>>>>> 0f77d5e8ce0b822276e3c891b94e4f4183f8042c

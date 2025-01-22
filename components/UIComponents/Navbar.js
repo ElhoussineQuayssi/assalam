@@ -7,17 +7,7 @@ import React from 'react';
 import { useRouter, usePathname } from 'next/navigation';
 
 const Navbar = () => {
-  const router = useRouter();
-  const pathname = usePathname();
 
-  // Set a default language
-  const defaultLocale = 'fr';
-
-  // Update the handleLanguageChange function to use defaultLocale
-  const handleLanguageChange = (newLocale) => {
-    const currentPath = pathname.split('/').slice(2).join('/');
-    router.push(`/${newLocale}/${currentPath}`);
-  };
 
   const menuItems = [
     { href: '/nous_sommes', label: 'about' },

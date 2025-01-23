@@ -66,34 +66,26 @@ export const CardsDescription = [
 
 
 export const ListAboutUs = [
-  'lorem ipsum dolor sit amet consectetur adipisicing elit. ',
-  'Lorem ipsum dolor sit amet consectetur adipisicing elit. ',
-  'Lorem ipsum dolor sit amet consectetur adipisicing elit. ',
+  'Une association caractérisée par une dynamique interne et une amélioration continue',
+  'Une association qui respecte ses statuts et renouvelle ses structures',
+  'Elle a une vision, une mission et un plan stratégique.'
 ]
 
 export const ProjectsEx = [
   {
-    titre: 'Projet 1',
+    titre: 'Kafala',
     description: 'description pour le projet 1',
     image: T1
   },{
-    titre: 'Projet 2',
+    titre: 'Imtiaz',
     description: 'description pour le projet 2',
     image: T1
   },{
-    titre: 'Projet 3',
+    titre: 'Nadi assalam',
     description: 'description pour le projet 3',
     image: T1
   },{
-    titre: 'Projet 4',
-    description: 'description pour le projet 3',
-    image: T1
-  },{
-    titre: 'Projet 5',
-    description: 'description pour le projet 3',
-    image: T1
-  },{
-    titre: 'Projet 6',
+    titre: 'Fataer Assalam',
     description: 'description pour le projet 3',
     image: T1
   }
@@ -105,7 +97,7 @@ export const ActualitesData = [
   {
     id: 1,
     title: "Actualité 1",
-    description: "Description 1",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.",
     image: image
   },
   {

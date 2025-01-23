@@ -19,11 +19,11 @@ const Projects = () => {
       <h1 className="text-4xl font-bold text-center text-[#1a1a2e]" data-aos="fade-up"> {/* Dark blue text color */}
         Les Grands projets de notre fondation
       </h1>
-      <div className="grid md:grid-cols-4 grid-cols-1 gap-4 w-full" data-aos="fade-up">
+      <div className="grid md:grid-cols-4 grid-cols-2 gap-4 w-full" data-aos="fade-up">
         {ProjectsEx.map((projet, index) => (
           <Tilt key={index} options={{ max: 15, scale: 1.0, speed: 1000 }}>
             <motion.div
-              className="card bg-base-200 shadow-lg h-96 rounded-lg relative overflow-hidden"
+              className="card bg-base-200 shadow-lg h-80 rounded-lg relative overflow-hidden"
               variants={cardVariants}
               initial="hidden"
               animate="visible"
